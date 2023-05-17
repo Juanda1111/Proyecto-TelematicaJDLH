@@ -6,10 +6,6 @@ Habilitar los puertos 80, 5600 y 8080
 
 ![image](https://github.com/Juanda1111/Proyecto-TelematicaJDLH/assets/115760221/23b5af2f-e39e-4c4e-bc79-c32dceb04b7a)
 
-# Automatizacion
-
-Se incluye un archivo .sh que automatiza todo el proceso que se describe a continuacion, para usarlo sh ./auto.sh
-
 # Explicacion
 
 Luego cuando estemos en la maquina actualizamos los paquetes con el comando sudo apt update
